@@ -1,0 +1,39 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Business",
+      "Organizational Behavior"
+    ],
+    [
+      "Business",
+      "Leadership"
+    ],
+    [
+      "Business",
+      "Management"
+    ],
+    [
+      "Business",
+      "Innovation"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "4ffc0743-427e-792d-9d82-c020ed19b7ca"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Strategic Organizational Design",
+  "course_description": "_15.320 Strategic Organizational Design_ focuses on effective organizational design in both traditional and innovative organizations, with special emphasis on innovative organizational forms that can provide strategic advantage. Topics include when to use functional, divisional, or matrix organizations, how IT creates new organizational possibilities, and examples of innovative organizational possibilities, such as democratic decision-making, crowd-based organizations, internal resource markets, and other forms of collective intelligence. Team projects include inventing new possibilities for real organizations.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.320",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects"
+  ],
+  "title": "Course Metadata"
+}
